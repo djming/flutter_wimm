@@ -1,0 +1,8 @@
+{
+  "appName": "Where Is My Money",
+  "appNameSimple": "WIMM",
+  "empty_hint" : "没有历史记录",
+  "home_page" : "主页",
+  "timeline_page" : "时间线",
+  "detail_page" : "明细"
+}

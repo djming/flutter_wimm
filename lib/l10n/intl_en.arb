@@ -1,0 +1,8 @@
+{
+  "appName": "Where Is My Money",
+  "appNameSimple": "WIMM",
+  "empty_hint" : "No Record",
+  "home_page" : "Home",
+  "timeline_page" : "Time Line",
+  "detail_page" : "Detail"
+}
